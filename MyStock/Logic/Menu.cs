@@ -1,3 +1,4 @@
+using WeatherApp;
 using WeatherApp.Command;
 
 namespace MyStock.Logic;
@@ -19,8 +20,7 @@ public class Menu
             // Threads.StartThreadWithJoin(new Thread(new ThreadStart(OutPut.PrintMainMenu)));
             try
             {
-                Console.WriteLine("1. Display specific stock for specific period of time");
-                Console.Write("Choose your action: ");
+                OutPut.PrintMenu();
                 willContinue = await FinishProcessChecking(int.Parse(Console.ReadLine()));// if false program will close
             }
             catch (FormatException)
