@@ -1,4 +1,4 @@
-#MyStock.
+# MyStock.
 
 Many people follow stocks online using different websites. They try to buy for less and sell for more, this is the easiest description of what professional brokers do. Nowadays this can do anyone, even you by using my console application.
 
