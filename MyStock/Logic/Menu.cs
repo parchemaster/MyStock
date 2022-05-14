@@ -6,18 +6,15 @@ namespace MyStock.Logic;
 public class Menu
 {
     private bool willContinue = true;
-    private Navigation _navigation;
-    private User _user;
+    private Navigation _navigation = new Navigation();
+    private User _user = new User();
     public async Task RunProgram()
     {
-        _navigation = new Navigation();
-        _user = new User();
+        // _navigation = new Navigation();
+        // _user = new User();
 
         while (willContinue.Equals(true))
         {
-            // Threads.StartThreadWithJoin(new Thread(new ThreadStart(OutPut.PrintMenuFrame)));
-            // Threads.StartThreadWithJoin(new Thread(new ThreadStart(OutPut.PrintTitleFrame)));
-            // Threads.StartThreadWithJoin(new Thread(new ThreadStart(OutPut.PrintMainMenu)));
             try
             {
                 OutPut.PrintMenu();

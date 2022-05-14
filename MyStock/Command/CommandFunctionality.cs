@@ -1,3 +1,4 @@
+using MyStock;
 using MyStock.Logic;
 
 namespace WeatherApp.Command;
@@ -7,8 +8,7 @@ public abstract class CommandFunction
 
     public AVConnection conn = new AVConnection("T74XLTWLXCZKB3XX");
 
-    public virtual async Task ExecutCommand()
+    public virtual async Task ExecutCommand(User user)
     {
-        Console.WriteLine("aa");
     }
 }

@@ -1,4 +1,5 @@
 using Microsoft.Data.Analysis;
+using MyStock;
 using MyStock.Data;
 using MyStock.Logic;
 using WeatherApp.Command;
@@ -7,14 +8,14 @@ using WeatherApp.Command;
 public class CurrentStock : CommandFunction
 {
 
-    public override async Task ExecutCommand()
+    public override async Task ExecutCommand(User user)
     {
         Console.Write("Choose specific company: ");
-        var symbol = Console.ReadLine().ToUpper();
-        List<SecurityData> prices = conn.GetDailyPrices(symbol);
+        var company = Console.ReadLine().ToUpper();
+        List<SecurityData> prices = conn.GetDailyPrices(company);
         PrimitiveDataFrameColumn<DateTime> date = new PrimitiveDataFrameColumn<DateTime>("Date", prices.Select(sd => sd.Timestamp));
-        PrimitiveDataFrameColumn<decimal> priceCol = new PrimitiveDataFrameColumn<decimal>("Close Price", prices.Select(sd => sd.Close));
-        DataFrame df = new DataFrame(date, priceCol);
+        PrimitiveDataFrameColumn<decimal> closePrice = new PrimitiveDataFrameColumn<decimal>("Close Price", prices.Select(sd => sd.Close));
+        DataFrame df = new DataFrame(date, closePrice);
             
         PrimitiveDataFrameColumn<decimal> pctChange = new PrimitiveDataFrameColumn<decimal>("Percent Change", prices.Count);
             
@@ -26,6 +27,6 @@ public class CurrentStock : CommandFunction
             pctChange[i] = Math.Round(delta, 3);
         }
         df.Columns.Add(pctChange);
-        Console.WriteLine("Current cost of " + symbol + " stock is " + priceCol[0] + "$");
+        Console.WriteLine("Current cost of " + company + " stock is " + closePrice[0] + "$");
     }
 }
