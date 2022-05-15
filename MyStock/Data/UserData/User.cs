@@ -11,7 +11,7 @@ public class User
     public User()
     {
         Commands = createFunctions();
-        Favorites = new List<Stock>();
+        Favorites = DBService.UploadStocksFromDB();
     }
 
     private List<CommandFunction> createFunctions()

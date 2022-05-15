@@ -19,6 +19,7 @@ public class AddToFavorit : CommandFunction
         var newStock = new Stock(company, date[0]!.Value, closePrice[0]!.Value);
         if (!user.Favorites.Contains(newStock))
         {
+            DBService.AddStockToDB(newStock);
             user.Favorites.Add(newStock);
         }
     }

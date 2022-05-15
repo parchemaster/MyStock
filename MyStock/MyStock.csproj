@@ -10,10 +10,7 @@
     <ItemGroup>
       <PackageReference Include="Microsoft.Data.Analysis" Version="0.19.1" />
       <PackageReference Include="ServiceStack.Text" Version="6.0.2" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <Folder Include="Data" />
+      <PackageReference Include="System.Data.SQLite.Core" Version="1.0.115.5" />
     </ItemGroup>
 
 </Project>

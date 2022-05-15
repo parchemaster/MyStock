@@ -15,6 +15,6 @@ public class Stock
 
     public override string ToString()
     {
-        return "Current cost of " + Name + " stock is " + ClosePrice + "$";
+        return "Current cost of " + Name + " stock is " + ClosePrice + "$" + " at " + Date;
     }
 }
