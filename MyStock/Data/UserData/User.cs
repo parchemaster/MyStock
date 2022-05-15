@@ -16,6 +16,12 @@ public class User
 
     private List<CommandFunction> createFunctions()
     {
-        return new List<CommandFunction>(){new CurrentStock(), new AddToFavorit(), new DisplayFavorites()};
+        return new List<CommandFunction>()
+        {
+            new CurrentStock(), 
+            new AddToFavorit(), 
+            new DisplayFavorites(),
+            new DeleteStockFromFavorites()
+        };
     }
 }
