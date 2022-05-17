@@ -13,6 +13,7 @@ namespace WeatherApp
                 "2. Add stock to favorite", 
                 "3. Display favorite list",
                 "4. Delete stock from favorites",
+                "5. Check the history of stock",
                 "6. Exit"
             };
             ColorAndStyle.PrintSetedTextPosition(menuLine, width + menuLine.Length / 2, 20);

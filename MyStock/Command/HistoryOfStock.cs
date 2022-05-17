@@ -1,17 +1,16 @@
 using Microsoft.Data.Analysis;
 using MyStock;
 using MyStock.Data;
-using WeatherApp.Command;
 
+namespace WeatherApp.Command;
 
-public class CurrentStock : CommandFunction
+public class HistoryOfStock : CommandFunction
 {
-
     public override async Task ExecutCommand(User user)
     {
         Console.Write("Choose specific company: ");
         var company = Console.ReadLine().ToUpper();
-        List<SecurityData> prices = conn.GetDailyPrices(company);
+        List<SecurityData> prices = conn.GetMonthsPrices(company);
         PrimitiveDataFrameColumn<DateTime> date = new PrimitiveDataFrameColumn<DateTime>("Date", prices.Select(sd => sd.Timestamp));
         PrimitiveDataFrameColumn<decimal> closePrice = new PrimitiveDataFrameColumn<decimal>("Close Price", prices.Select(sd => sd.Close));
         DataFrame df = new DataFrame(date, closePrice);
@@ -24,8 +23,9 @@ public class CurrentStock : CommandFunction
             decimal currPrice = (decimal)df.Columns["Close Price"][i];
             decimal delta = ((currPrice / prevPrice) - 1) * 100;
             pctChange[i] = Math.Round(delta, 3);
+            Console.WriteLine("Current cost of " + company + " stock is " + closePrice[i] + "$ " + "on " + date[i]);
+
         }
         df.Columns.Add(pctChange);
-        Console.WriteLine("Current cost of " + company + " stock is " + closePrice[0] + "$");
     }
 }

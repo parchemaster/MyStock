@@ -21,7 +21,8 @@ public class User
             new CurrentStock(), 
             new AddToFavorit(), 
             new DisplayFavorites(),
-            new DeleteStockFromFavorites()
+            new DeleteStockFromFavorites(),
+            new HistoryOfStock()
         };
     }
 }
