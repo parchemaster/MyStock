@@ -1,0 +1,94 @@
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\obj\Debug\DesktopApp.csproj.AssemblyReference.cache
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\obj\Debug\DesktopApp.csproj.SuggestedBindingRedirects.cache
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.cache
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\obj\Debug\DesktopApp.csproj.CoreCompileInputs.cache
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\DesktopApp.exe.config
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\DesktopApp.exe
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\DesktopApp.pdb
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\Apache.Arrow.dll
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\LiveCharts.dll
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\LiveCharts.WinForms.dll
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\LiveCharts.Wpf.dll
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\Microsoft.Data.Analysis.dll
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\Microsoft.Data.Sqlite.dll
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\Microsoft.ML.DataView.dll
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\ServiceStack.Text.dll
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\SQLitePCLRaw.core.dll
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\System.Buffers.dll
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\System.Collections.Immutable.dll
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\System.Data.SQLite.dll
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\System.Memory.dll
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\System.Numerics.Vectors.dll
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\LiveCharts.pdb
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\LiveCharts.xml
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\LiveCharts.WinForms.pdb
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\LiveCharts.WinForms.xml
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\LiveCharts.Wpf.pdb
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\LiveCharts.Wpf.xml
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\Microsoft.Data.Analysis.xml
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\Microsoft.Data.Sqlite.xml
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\Microsoft.ML.DataView.xml
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\ServiceStack.Text.xml
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\System.Buffers.xml
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\System.Collections.Immutable.xml
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\System.Data.SQLite.xml
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\System.Memory.xml
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\System.Numerics.Vectors.xml
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\obj\Debug\DesktopApp.csproj.CopyComplete
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\obj\Debug\DesktopApp.exe
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\obj\Debug\DesktopApp.pdb
+\\ad.fi.muni.cz\DFS\home\x522880\_profile\Desktop\my-stock\DesktopApp\obj\Debug\DesktopApp.myStock.resources
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\DesktopApp.exe.config
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\DesktopApp.exe
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\DesktopApp.pdb
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\Apache.Arrow.dll
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\LiveCharts.dll
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\Microsoft.Data.Analysis.dll
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\Microsoft.ML.DataView.dll
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\ServiceStack.Text.dll
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\System.Buffers.dll
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\System.Memory.dll
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\LiveCharts.pdb
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\LiveCharts.xml
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\Microsoft.Data.Analysis.xml
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\Microsoft.ML.DataView.xml
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\ServiceStack.Text.xml
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\System.Buffers.xml
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\System.Memory.xml
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\obj\Debug\DesktopApp.csproj.AssemblyReference.cache
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\obj\Debug\DesktopApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\obj\Debug\DesktopApp.myStock.resources
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.cache
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\obj\Debug\DesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\obj\Debug\DesktopApp.csproj.CopyComplete
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\obj\Debug\DesktopApp.exe
+C:\Users\Marek\Downloads\my-stock 3\DesktopApp\obj\Debug\DesktopApp.pdb
